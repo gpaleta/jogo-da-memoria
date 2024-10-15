@@ -1,5 +1,5 @@
 body{
-    background-image: url("./tapete.png");
+    background-image: url("./img/tapete.png");
     display: flex;
     flex-direction: column;
 }
@@ -24,4 +24,14 @@ header{
     margin-right: 48%;
     margin-left: 48%;
     background-color: lightgray;
+}
+
+.yuguio{
+    width: 30%;
+}
+table, th, td {
+    border: 5px solid black;
+}
+td{
+
 }
