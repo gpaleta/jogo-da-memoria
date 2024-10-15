@@ -1,0 +1,27 @@
+body{
+    background-image: url("./tapete.png");
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    background-color: lightgray;
+    text-align: center;
+    font-size: larger;
+    border: 10px groove;
+    margin-bottom: 50px ;
+    margin-right: 35%;
+    margin-left: 35%;
+    margin-top: 30px;
+}
+.botao {
+    justify-content: center;
+    align-items: center;
+    border: 7px black groove;
+    padding: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 48%;
+    margin-left: 48%;
+    background-color: lightgray;
+}
