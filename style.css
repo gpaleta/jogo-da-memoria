@@ -31,7 +31,12 @@ header{
 }
 table, th, td {
     border: 5px solid black;
+
 }
 td{
-
+    padding: 0 100px;
+}
+input{
+    padding: 12px 1px;
+    margin: 15px 35% 15px 35%;
 }
