@@ -1,0 +1,17 @@
+#theme-select, #difficulty-select {
+    padding: 8px;
+    font-size: 15px;
+    border-radius: 8px;
+    background-color: #7a7a7a;
+    color: #ffffff  ;
+}
+
+#theme-select option{
+    background-color: #7a7a7a;
+}
+
+#difficulty-select option{
+    background-color: #7a7a7a;
+    
+}
+

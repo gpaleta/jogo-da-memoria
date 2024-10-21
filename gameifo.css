@@ -1,0 +1,9 @@
+#game-info {
+    color: white;
+    display: flex;
+    gap: 20px;
+    font-size: 15px;
+    border: 8px groove black;
+    padding: 10px;
+    margin: 20px;
+}
